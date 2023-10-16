@@ -8,11 +8,11 @@ In the modern age of data-driven operations, enterprises amass copious amounts o
 
 Sales data traditionally encompasses details concerning products, customers, sales dates, and more. In our Python script, we will interact with a JSON file named 'Supplies.json,' which contains sales data. We will carry out diverse data analysis tasks such as:
 
-1.Importing JSON data into a Pandas DataFrame.
-2.Streamlining intricate, nested data structures.
-3.Computing sales statistics.
-4.Assigning rankings to products and store locations.
-5.Investigating purchase methods categorized by gender.
-6.Generating visual representations of monthly sales trends.
+#/ 1.Importing JSON data into a Pandas DataFrame.
+#/ 2.Streamlining intricate, nested data structures.
+#/ 3.Computing sales statistics.
+#/4.Assigning rankings to products and store locations.
+#/5.Investigating purchase methods categorized by gender.
+#/6.Generating visual representations of monthly sales trends.
 
 This script serves as an initial point for more advanced undertakings in data analysis and visualization. Enterprises can adapt and expand it to cater to their precise requirements, including the creation of interactive dashboards, prediction of sales trends, or identification of customer behavioral patterns. Data analysis stands as a potent asset for businesses aspiring to thrive in today's competitive landscape, and Python, along with Pandas, renders it accessible and efficient.
